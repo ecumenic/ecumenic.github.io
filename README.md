@@ -1,1 +1,2 @@
-# ecumenic.github.io
+Ecumenic Cultural Operations
+http://ecumenic.github.io
