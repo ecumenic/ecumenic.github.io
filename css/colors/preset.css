@@ -1,136 +1,136 @@
 a{
-	color: #F97794;
+	color: #111;
 }
 a:hover{
-	color: #F97794;
+	color: #111;
 }
 .btn-common{
-    background-color: #F97794;
+    background-color: #111;
 }
 .btn-border:hover{
-	background-color: #F97794;
+	background-color: #111;
 }
 .controls .active{
-	color: #F97794 !important;
-    border-color: #F97794;
+	color: #111 !important;
+    border-color: #111;
 }
 .bg-defult{
-	background: #F97794!important;
+	background: #111!important;
 }
 #carousel-area .carousel-control-next i, #carousel-area .carousel-control-prev i{
-	background: #F97794;
+	background: #111;
 }
 .section-header .section-title:before{
-	background: #F97794;
+	background: #111;
 }
 .overlay{
-	background: #F97794;
+	background: #111;
 }
 .bg-white .navbar-nav .active{
-	color: #F97794!important;
+	color: #111!important;
 }
 .menu-bg .navbar-nav .active{
-	color: #F97794!important;
+	color: #111!important;
 }
 .menu-bg .navbar-nav .nav-link:hover{
-	color: #F97794!important;
+	color: #111!important;
 }
 .navbar-expand-md .navbar-nav .active > .nav-link, .navbar-expand-md .navbar-nav .nav-link.active, .navbar-expand-md .navbar-nav .nav-link.active::before, .navbar-expand-md .navbar-nav .nav-link.open, .navbar-expand-md .navbar-nav .open > .nav-link{
-	color: #F97794;
+	color: #111;
 }
 .navbar-expand-md .navbar-nav .nav-link:focus, .navbar-expand-md .navbar-nav .nav-link:hover, .navbar-expand-md .navbar-nav .nav-link:hover:before{
-	color: #F97794;
+	color: #111;
 }
 .navbar-expand-md .navbar-nav .nav-link:before{
-	background: #F97794;
+	background: #111;
 }
-.menu-bg .logo-menu a, .menu-bg .menu-button:hover{color: #F97794;}
+.menu-bg .logo-menu a, .menu-bg .menu-button:hover{color: #111;}
 .menu-wrap .navbar-nav li .active,
 .menu-wrap .navbar-nav li .active::before{
-	color: #F97794;
+	color: #111;
 }
 .menu-wrap a:hover, .menu-wrap a:focus{
-	color: #F97794;
+	color: #111;
 }
 .icon-list a::before {
-    background: #F97794;
+    background: #111;
 }
 #about .box-item .icon i{
-	color: #F97794;
+	color: #111;
 }
 .item-boxes .icon{
-	border-color: #F97794;
+	border-color: #111;
 }
 .item-boxes .icon i{
-	color: #F97794;
+	color: #111;
 }
 .featured-box .featured-icon i{
-	color: #F97794; 
+	color: #111; 
 }
 .controls .mixitup-control-active{
-	color: #F97794!important;
-	border-color: #F97794;
+	color: #111!important;
+	border-color: #111;
 }
 .testimonial-item .author .author-info h2 a:hover{
-	color: #F97794;
+	color: #111;
 }
 .testimonial-item .content-inner span{
-	color: #F97794;
+	color: #111;
 }
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #F97794;
+	background: #111;
 }
 #subscribe .sub-item-box .icon-box i{
-	color: #F97794;
+	color: #111;
 }
 #blog .blog-item-text h3 a:hover{
-	color: #F97794;
+	color: #111;
 }
 .meta-tags span a:hover{
-	color: #F97794;
+	color: #111;
 }
 .form-control:focus{
-	border: 1px solid #F97794
+	border: 1px solid #111
 }
 #contact:before{
-	background: #F97794;
+	background: #111;
 }
 .contact-info i{
-	color: #F97794;
+	color: #111;
 }
 .back-to-top i{
-	background-color: #F97794;
+	background-color: #111;
 }
 .single-team .social-list li a{
-	color: #F97794;
+	color: #111;
 }
 .footer-social li a{
-	background: #F97794;
+	background: #111;
 }
 footer .menu li a:hover{
-	color: #F97794;
+	color: #111;
 }
 .contact-footer li span a:hover{
-	color: #F97794;
+	color: #111;
 }
 .toggle-map{
-	background-color: #F97794;
+	background-color: #111;
 }
 .toggle-map .map-icon{
-	border-color: #F97794;
+	border-color: #111;
 }
 .counter-item .icon i{
-	color: #F97794;
+	color: #111;
 }
 #google-map{
-	border-color: #F97794;
+	border-color: #111;
 }
 #subscribe form input:focus{
-	border-color: #F97794;
+	border-color: #111;
 }
 #copyright p a:hover{
-	color: #F97794;
+	color: #111;
 }
 #copyright .nav-inline .nav-link:hover{
-	color: #F97794;
+	color: #111;
 }

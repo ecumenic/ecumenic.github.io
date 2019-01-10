@@ -91,20 +91,20 @@ ul.colors li a.color1.active:after, ul.colors li a.color8.active:after{
 
 /* light-version */
 ul.colors .color1 {
-    background: #888888;  /* preset */    
+    background: #111;  /* preset */    
 }
 ul.colors .color2 {
-    background: #777777;  /* blue */
+    background: #1AB7D8;  /* blue */
 }
 ul.colors .color3 {
-     background: #666666; /* turquoise */
+     background: #1abc9c; /* turquoise */
 }
 ul.colors .color4 {
-     background: #777777;  /* orange */
+     background: #f39c12;  /* orange */
 }
 ul.colors .color5 {
-     background: #888888;  /* Wisteria */
+     background: #8e44ad;  /* Wisteria */
 }
 ul.colors .color6 {
-     background: #555555;  /* Alizarin */
+     background: #e74c3c;  /* Alizarin */
 }
