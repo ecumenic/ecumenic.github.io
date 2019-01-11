@@ -1,7 +1,7 @@
 /* ==========================================================================
    1. IMPORT GOOGLE FONTS
    ========================================================================== */
-@import url("https://fonts.googleapis.com/css?family=Ubuntu+Condensed|Ubuntu");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu+Condensed|Ubuntu|Courier+New");
 /* ==========================================================================
    2. GENERAL
    ========================================================================== */
@@ -74,7 +74,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .bg-defult {
   background: #fff !important;
-  background-image: url("./img/bg.png");
   background-attachment: fixed;
 }
 
@@ -1342,8 +1341,19 @@ button:focus {
    Featured Section Start
    ========================================================================== */
 .featured-box {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  padding: 30px;
+  border-radius: 4px;
+ background: #fff;
+  border: 1px solid #eaeaea;
+  margin: 15px 0;
+  webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.featured-box:hover {
+  background: #fbfbfb;
+  box-shadow: 0px 10px 50px 0px rgba(84, 110, 122, 0.35);
 }
 
 .featured-box .featured-icon {
@@ -1647,7 +1657,7 @@ button:focus {
 }
 
 /* ==========================================================================
-  Slider
+ Main Slider Header
    ========================================================================== */
 #carousel-area {
   overflow: hidden;
@@ -1773,8 +1783,8 @@ button:focus {
   margin-left: 10px;
 }
 
-/* ==========================================================================
-   Blog 
+/* ==========================================================================   
+Blog 
    ========================================================================== */
 #blog .blog-item-wrapper {
   background: #fff;
