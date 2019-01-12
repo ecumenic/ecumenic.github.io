@@ -1,62 +1,60 @@
 /* ==========================================================================
-   1. IMPORT GOOGLE FONTS
-   ========================================================================== */
+IMPORT GOOGLE FONTS   ========================================================================== */
+
 @import url("https://fonts.googleapis.com/css?family=Ubuntu+Condensed|Ubuntu|Courier+New");
+
 /* ==========================================================================
-   2. GENERAL
-   ========================================================================== */
-body {
-  font-family: 'Ubuntu', sans-serif;
-  color: #111;
-  font-size: 14px;
-  font-weight: 400;
-  background: #fff 
-  overflow-x: hidden;
-}
+GENERAL PAGE
+========================================================================== */
 
 html {
   overflow-x: hidden;
 }
 
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: #111;
+  font-size: 14px;
+  font-weight: 400;
+  overflow-x: hidden;
+  bg: url("./img/bg.png"); !important;
+}
+
+.bg-defult {
+  background: url("./img/bg.png"); !important;
+}
+
+.bg-transparent {
+  background: #111 !important;
+}
+
+h1, h2, h3, h4, h5 {
+ font-family: 'Ubuntu Condensed';
+  font-size: 40px;
+  font-weight: 700;
+  color: #000;
+}
+
 p {
   font-size: 14px;
-  color: #546E7A;
+  color: #434343;
   line-height: 26px;
   font-family: 'Ubuntu', sans-serif;
   margin-bottom: 0;
 }
 
-a:hover, a:focus {
-  color: #333;
-}
-
 a {
-  color: #111;
+  color: #000;
+  font-weight: bold;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
-h1, h2, h3, h4, h5 {
- font-family: 'Ubuntu Condensed', 'Ubuntu Condensed', sans-serif;
-  font-size: 40px;
-  font-weight: 700;
-  color: #263238;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-ul li {
-  list-style: none;
-}
-
-a:hover,
-a:focus {
-  text-decoration: none;
+a:hover, a:focus {
+  color: #333;
+  text-decoration: underline;
   outline: none;
 }
 
@@ -68,34 +66,33 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
-.bg-transparent {
-  background: #111 !important;
+ul {
+  margin: 0;
+  padding: 0;
 }
 
-.bg-defult {
-  background: #fff !important;
-  background-attachment: fixed;
+ul li {
+  list-style: none;
 }
 
 /* ==========================================================================
-   2.1 Section Title
-   ========================================================================== */
+SECTION HEADER
+========================================================================== */
+
 .section {
-  padding: 80px 0;
+  padding: 0px 0;
 }
 
 .section-header {
   color: #fff;
-  margin-bottom: 40px;
   text-align: center;
   position: relative;
 }
 
 .section-header .section-title {
   font-size: 36px;
-  margin-bottom: 20px;
   text-transform: uppercase;
- font-family: 'Ubuntu Condensed', 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu Condensed', 'Ubuntu', sans-serif;
   font-weight: 700;
   color: #263238;
   position: relative;
@@ -104,7 +101,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .section-header .section-title:before {
   content: '';
   position: absolute;
-  bottom: -8px;
   width: 80px;
   height: 2px;
   background: #111;
@@ -127,8 +123,9 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 /* ==========================================================================
-   2.2 Buttons
-   ========================================================================== */
+BUTTONS
+========================================================================== */
+
 .btn {
   font-size: 14px;
   padding: 10px 30px;
@@ -218,8 +215,9 @@ button:focus {
 }
 
 /* ==========================================================================
-   2.3 Social Iocns
-   ========================================================================== */
+SOCIAL ICONS   
+========================================================================== */
+
 .social-icons {
   margin-bottom: 20px;
 }
@@ -317,8 +315,9 @@ button:focus {
 }
 
 /* ==========================================================================
-   2.4  Pre Loader
-   ========================================================================== */
+PRELOADER
+========================================================================== */
+
 #loader {
   position: fixed;
   top: 0;
@@ -384,8 +383,9 @@ button:focus {
 }
 
 /* ========================================================================== 
-  -2.5 Scroll To Up 
-   ========================================================================== */
+SCROLL UP
+========================================================================== */
+
 .back-to-top {
   display: none;
   position: fixed;
@@ -425,8 +425,9 @@ button:focus {
 }
 
 /* ==========================================================================
-   Navbar Style
-   ========================================================================== */
+NAVBAR 
+========================================================================== */
+
 .bg-faded {
   background-color: #fff;
 }
@@ -589,19 +590,19 @@ button:focus {
 }
 
 .collapse.show {
-  background: #3e3a3a;
+  background: #fff;
   margin-bottom: 10px;
-  -webkit-transition: 0.6s;
-  -moz-transition: 0.6s;
-  transition: 0.6s;
+  webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .menu-bg .collapse.show {
-  background: #fff;
+  background: #111;
   margin-bottom: 10px;
-  -webkit-transition: 0.6s;
-  -moz-transition: 0.6s;
-  transition: 0.6s;
+  webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .navbar-expand-md .navbar-toggler:active {
@@ -610,8 +611,8 @@ button:focus {
 }
 
 /* ==========================================================================
-   Hero Area
-   ========================================================================== */
+HERO AREA ========================================================================== */
+
 .hero-area {
   background: url(../img/hero-area.jpg) no-repeat;
   background-size: cover;
@@ -631,7 +632,7 @@ button:focus {
 }
 
 .hero-area .contents {
-  padding: 160px 0 140px;
+  padding: 0px 0 0px;
 }
 
 .hero-area .contents h2 {
@@ -826,7 +827,7 @@ button:focus {
 }
 
 #video-area .contents {
-  padding: 160px 0 80px;
+  padding: 0px 0 80px;
 }
 
 #video-area .contents h1 {
@@ -1371,7 +1372,7 @@ button:focus {
 }
 
 .featured-box .featured-content {
-  padding-left: 40px;
+  padding-left: 0px;
   position: relative;
 }
 
@@ -1389,7 +1390,7 @@ button:focus {
 
 .featured-box .featured-content h4 {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: bold;
   margin-bottom: 10px;
   transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
@@ -1669,16 +1670,16 @@ button:focus {
 }
 
 #carousel-area .carousel-item .carousel-caption {
-  top: 32%;
+  top: 15%;
   right: 10%;
-  left: 12%;
+  left: 10%;
   text-shadow: none;
   padding-top: 0;
   padding-bottom: 0;
 }
 
 #carousel-area .carousel-item .carousel-caption h3 {
-  color: #fff;
+  color: #000;
   font-weight: 500;
   font-size: 26px;
   line-height: 38px;
@@ -1687,11 +1688,11 @@ button:focus {
 #carousel-area .carousel-item .carousel-caption h2 {
   font-size: 80px;
   font-weight: 700;
-  color: #fff;
+  color: #000;
 }
 
 #carousel-area .carousel-item .carousel-caption h4 {
-  color: #ffffff;
+  color: #000;
   font-size: 18px;
   font-weight: 500;
   margin-bottom: 30px;
