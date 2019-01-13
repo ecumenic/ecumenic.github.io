@@ -44,6 +44,7 @@ http://github.com/ecumenic
 
 ## 4. WEBSITE CREDITS:
 - Development Environmet by GitHub: http://www.github.com
+- Git Reference by GitBook: https://git-scm.com
 - Organizational Mind Maps by FreeMind: http://freemind.sourceforge.net
 - Documentation by LibreOffice: https://www.libreoffice.org
 - Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
