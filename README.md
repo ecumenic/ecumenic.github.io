@@ -7,8 +7,8 @@ ecumenic@protonmail.com
 ⚫ PROJECT: Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
 ⚫ CONTRIBUTIONS NEEDED:
-- Code improvement analysis.
-- We accept any feasable good ideas you may have for our overall project.
+- Website code optimization.
+- Ecumenic Creative Operations overall project optimization.
 
 ⚫ CONTRIBUTING: 
 - Contact us with your contribution.
