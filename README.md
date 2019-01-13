@@ -1,8 +1,8 @@
-◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
 ECUMENIC CREATIVE OPERATIONS
 http://ecumenic.github.io
 ecumenic@protonmail.com
-◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+◇
 
 ⚫ PROJECT: Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
