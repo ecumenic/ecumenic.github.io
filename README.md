@@ -43,12 +43,14 @@ http://github.com/ecumenic
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
 ## 4. WEBSITE CREDITS:
-- Community & Page Server by GitHub: http://www.github.com
+- Development Environmet by GitHub: http://www.github.com
+- Organizational Mind Maps by FreeMind: http://freemind.sourceforge.net
+- Documentation by LibreOffice: https://www.libreoffice.org
+- Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
+- Iconography by The Noun Project: https://www.thenounproject.com
 - Base Template by UIdeck Essence: http://www.uideck.com
 - Coding References by W3 Schools: https://www.w3schools.com
 - Layout References by LayoutIt: https://www.layoutit.com
-- Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
-- Iconography by The Noun Project: https://www.thenounproject.com
 - Photos Galleries by Piwigo: http://www.piwigo.org
 - Photo Streaming by Instagram: http://www.instagram.com
 - Audio Streaming by Soundcloud: http://www.soundcloud.com
