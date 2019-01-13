@@ -1,7 +1,12 @@
-# ECUMENIC CREATIVE OPERATIONS WEBSITE
-## http://ecumenic.github.io
-## https://github.com/ecumenic/ecumenic.github.io
+# ECUMENIC CREATIVE OPERATIONS
+## https://ecumenic.github.io
+## https://github.com/ecumenic
 ## ecumenic@protonmail.com
+
+# ◇
+
+# ECUMENIC CREATIVE OPERATIONS WEBSITE
+## https://github.com/ecumenic/ecumenic.github.io
 
 # ◇
 
@@ -13,11 +18,12 @@
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
 ## 2. CONTRIBUTIONS NEEDED:
-- Code optimization.
-- Website & project documentations review and translation to other languages.
-- Ecumenic Creative Operations overall project optimization.
+- Website (https://github.com/ecumenic/ecumenic.github.io) review and optimization.
+- Website translation to other multiple languages.
+- Other repository projects (https://github.com/ecumenic) review and optimization.
+- Ecumenic Creative Operations project (https://github.com/ecumenic/project) review and optimization.
 
-## 3. CONTRIBUTING: 
+## 3. CONTRIBUTING:
 
 3.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
 http://ecumenic.github.io
@@ -28,9 +34,12 @@ https://github.com/ecumenic/project/blob/master/README.md
 3.3. Read our LICENSE
 https://github.com/ecumenic/project/blob/master/LICENSE
 
-3.4. Only contact us through our email ecumenic@protonmail.com with:
+3.4. Research our repository's projects:
+http://github.com/ecumenic
+
+3.5. Only contact us through our email ecumenic@protonmail.com with:
 - A paragraph about your work.
-- A paragraph about your desired contribution.
+- A paragraph about your (not yet being developed) desired contribution.
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
 ## 4. WEBSITE CREDITS:
