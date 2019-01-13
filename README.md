@@ -6,34 +6,34 @@
 # ◇
 
 ## 1. PROJECT: 
-- Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
-
-## 2. PROJECT SPECIFICITIES:
+ 
+1.2. PROJECT SPECIFICITIES:
+- International English HTML CSS JS scripted website.
 - Audience Restriction: [PG] - Parental Guidance Recommended.
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
-## 3. CONTRIBUTIONS NEEDED:
+## 2. CONTRIBUTIONS NEEDED:
 - Code optimization.
-- Website & project documentations translation to other languages.
+- Website & project documentations review and translation to other languages.
 - Ecumenic Creative Operations overall project optimization.
 
-## 4. CONTRIBUTING: 
+## 3. CONTRIBUTING: 
 
-4.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
+3.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
 http://ecumenic.github.io
 
-4.2. Read our overall project README.ME 
+3.2. Read our overall project README.ME 
 https://github.com/ecumenic/project/blob/master/README.md
 
-4.3. Read our LICENSE
+3.3. Read our LICENSE
 https://github.com/ecumenic/project/blob/master/LICENSE
 
-4.4. Only contact us through our email ecumenic@protonmail.com with:
+3.4. Only contact us through our email ecumenic@protonmail.com with:
 - A paragraph about your work.
 - A paragraph about your desired contribution.
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
-## 5. WEBSITE CREDITS:
+## 4. WEBSITE CREDITS:
 - Base Template by UIdeck Essence: http://www.uideck.com
 - Coding References by W3 Schools: https://www.w3schools.com
 - Layout References by LayoutIt: https://www.layoutit.com
@@ -51,18 +51,18 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 - Online BlockChain Payment by FairCoin: https://www.fair-coin.org
 - Online Crowdsourcing by Causes: https://www.causes.com
 
-## 6. ADMINISTRATION TEAM:
+## 5. ADMINISTRATION TEAM:
 
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
-## 7. DEVELOPMENT COMMUNITY:
+## 6. DEVELOPMENT COMMUNITY:
 https://github.com/ecumenic/ecumenic.github.io
 
-## 8. LICENSE:
+## 7. LICENSE:
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0] https://creativecommons.org/licenses/by-nc-sa/4.0
 
-## 9. CONTACT:
+## 8. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
