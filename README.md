@@ -43,6 +43,7 @@ http://github.com/ecumenic
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
 ## 4. WEBSITE CREDITS:
+- Community & Page Server by GitHub: http://www.github.com
 - Base Template by UIdeck Essence: http://www.uideck.com
 - Coding References by W3 Schools: https://www.w3schools.com
 - Layout References by LayoutIt: https://www.layoutit.com
