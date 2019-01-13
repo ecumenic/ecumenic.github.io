@@ -64,7 +64,7 @@ http://github.com/ecumenic
 - Online BlockChain Payment by FairCoin: https://www.fair-coin.org
 - Online Crowdsourcing by Causes: https://www.causes.com
 
-## 5. ADMINISTRATION TEAM:
+## 5. ADMINISTRATION BOARD:
 
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
