@@ -5,19 +5,19 @@
 
 # ◇
 
-# 1. PROJECT: 
+## 1. PROJECT: 
 - Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
-# 2. PROJECT SPECIFICITIES:
+## 2. PROJECT SPECIFICITIES:
 - Audience Restriction: [PG] - Parental Guidance Recommended.
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
-# 3. CONTRIBUTIONS NEEDED:
+## 3. CONTRIBUTIONS NEEDED:
 - Code optimization.
 - Website & project documentations translation to other languages.
 - Ecumenic Creative Operations overall project optimization.
 
-# 4. CONTRIBUTING: 
+## 4. CONTRIBUTING: 
 
 4.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
 http://ecumenic.github.io
@@ -33,7 +33,7 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 - A paragraph about your desired contribution.
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
-# 5. WEBSITE CREDITS:
+## 5. WEBSITE CREDITS:
 - Base Template by UIdeck Essence: http://www.uideck.com
 - Coding References by W3 Schools: https://www.w3schools.com
 - Layout References by LayoutIt: https://www.layoutit.com
@@ -51,18 +51,18 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 - Online BlockChain Payment by FairCoin: https://www.fair-coin.org
 - Online Crowdsourcing by Causes: https://www.causes.com
 
-# 6. ADMINISTRATION TEAM:
+## 6. ADMINISTRATION TEAM:
 
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
-# 7. DEVELOPMENT COMMUNITY:
+## 7. DEVELOPMENT COMMUNITY:
 https://github.com/ecumenic/ecumenic.github.io
 
-# 8. LICENSE:
+## 8. LICENSE:
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0] https://creativecommons.org/licenses/by-nc-sa/4.0
 
-# 9. CONTACT:
+## 9. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
