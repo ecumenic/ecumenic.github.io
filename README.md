@@ -18,7 +18,7 @@
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
 ## 2. CONTRIBUTIONS NEEDED:
-- Website (https://github.com/ecumenic/ecumenic.github.io) review and optimization.
+- Website review and code cleaning for SEO & speed optimization.
 - Website translation to other multiple languages.
 - Other repository projects (https://github.com/ecumenic) review and optimization.
 - Ecumenic Creative Operations project (https://github.com/ecumenic/project) review and optimization.
