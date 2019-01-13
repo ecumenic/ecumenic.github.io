@@ -8,6 +8,7 @@ ecumenic@protonmail.com
 
 ⚫ CONTRIBUTIONS NEEDED:
 - Website code optimization.
+- Website & project documentations translation to other languages.
 - Ecumenic Creative Operations overall project optimization.
 
 ⚫ CONTRIBUTING: 
