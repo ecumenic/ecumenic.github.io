@@ -41,6 +41,7 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
 3.5. Only contact us through our email ecumenic@protonmail.com with:
+- Your GitHub username;
 - A paragraph about your work;
 - A paragraph about your desired contribution; &
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
