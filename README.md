@@ -25,21 +25,24 @@
 
 ## 3. CONTRIBUTING:
 
-3.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
+3.1. If you are not yet a part of GitHub read this how-to-contribute guide in the world greatest open-source development community join GitHub and join it.
+http://bit.ly/CollaborateOnGitHub
+
+3.2. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it.
 http://ecumenic.github.io
 
-3.2. Read our overall project README.ME 
+3.3. Read our overall project README.ME.
 https://github.com/ecumenic/project/blob/master/README.md
 
-3.3. Read our LICENSE
+3.4. Read our LICENSE.
 https://github.com/ecumenic/project/blob/master/LICENSE
 
-3.4. Research our repository's projects:
-http://github.com/ecumenic
+3.5. Commit to our CODE OF CONDUCT.
+https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
 3.5. Only contact us through our email ecumenic@protonmail.com with:
-- A paragraph about your work.
-- A paragraph about your (not yet being developed) desired contribution.
+- A paragraph about your work;
+- A paragraph about your desired contribution; &
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
 ## 4. WEBSITE CREDITS:
