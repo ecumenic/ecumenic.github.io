@@ -58,7 +58,8 @@ https://www.linkedin.com/in/operarioribeiro
 https://github.com/ecumenic/ecumenic.github.io
 
 ## 7. LICENSE:
-The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0] https://creativecommons.org/licenses/by-nc-sa/4.0
+Please refer to our project 'LICENSE' link below.
+https://github.com/ecumenic/project/blob/master/LICENSE
 
 ## 8. CONTACT:
 ecumenic@protonmail.com
