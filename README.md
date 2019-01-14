@@ -51,7 +51,7 @@ https://github.com/ecumenic/project/blob/master/CONTRIBUTING
 
 ## 5. ADMINISTRATION BOARD:
 
-- PROJECT DIRECTOR: Operário Ribeiro
+- Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
 ## 6. DEVELOPMENT COMMUNITY:
