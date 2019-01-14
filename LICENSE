@@ -1,107 +1,168 @@
-# ECUMENIC CREATIVE OPERATIONS
-# http://ecumenic.github.io
-# ecumenic@protonmail.com
+# ECUMENIC CREATIVE OPERATIONS 
+## https://ecumenic.github.io
+## ecumenic@protonmail.com
 
 # ◇
 
-# CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL PUBLIC LICENSE
-
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+## ECUMENIC CREATIVE OPERATIONS CONTRIBUTING GUIDE:
+## https://github.com/ecumenic/project/blob/master/CONTRIBUTING
 
 # ◇
 
-# 1. LICENSE: Creative Commons [CC BY-NC-SA 4.0]: 
-# https://creativecommons.org/licenses/by-nc-sa/4.0
-Copyright (c) Ecumenic Creative Operations
+## 1. PARTICIPATION REQUIREMENTS:
 
-#2. CONCISE EXPLANATION: 
+1.1. PARTICIPATION RESTRICTION 
+[PG] - Parental Guidance Recommended.
+https://en.wikipedia.org/wiki/Motion_picture_content_rating_system
 
-2.1. YOU ARE FREE TO:
-- Share: copy and redistribute the material in any medium or format.
-- Adapt: remix, transform, and build upon the material. The licensor cannot revoke these freedoms as long as you follow the license terms.
+1.2. ECUMENIC CREATIVE OPERATIONS PROJECT COMPLIANCY:
+You must examine and decide to tune and align to our project's mission, procedures, and methodologies as explained in our website, project document, and documentation. Skim the project's repositories, issues (open and closed), policies, social medias, and development communities also to have a broader view of it.
+https://ecumenic.github.io
+https://github.com/ecumenic/project
+https://github.com/ecumenic/documentation
 
-2.2. UNDER THE FOLLOWING TERMS:
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- Non Commercial: You may not use the material for commercial purposes.
-- Share Alike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-- No Additional Restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+1.2.1. PHILOSOPHIC ALIGNMENT:
+- Spiritual & Cultural Creation Thanking.
+- Mentored Community Skills Improvement.
+- Every Work As An Artform Empowerment.
+- Respectful Professional Relations Meeting. 
+- Sensibility & Rationality Awareness Optimization. 
+- Responsible Ethic Creativity Producing.
+- On-Demand Simple Task-Oriented Schedule.
+- Reputation & Portfolio Valuing & Implementation.
+- Sustainable Creative Industry Networking.
+- Interfaith Religious Freedom Fostering.
+- Reliability Engineered Transparent Self-Governance.
+- Optimum Sustainable Logistics Management. 
+- Technical Production Labour Qualification. 
+- Fair-Trade Contracting Lawful Formalization. 
+- Regenerative Collective Artscraft Productions.
+- Analytic Creative Economy Chain Valuing. 
+- Progressive Multimedia Process Documentation.
+- Complex Knowledge Simplification Sharing.
+- Scalable Positioning Possibilities.
 
-2.3. NOTICES:
-- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+1.3. CODE OF CONDUCT COMPLIANCY:
+You must commit to our 'CODE OF CONDUCT' to be able to join this project.
+https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
-2.4. CONSIDERATIONS FOR LICENSORS: 
-- Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. More considerations for licensors.
+1.4. FAIR-TRADE LEGAL CONTRACTS COMPLIANCY:
+If you are to offer any paid service or product to us please refer to our 'CONTRACT' to understand how we work with pre-agreed paid services.
+https://github.com/ecumenic/project/blob/master/CONTRACT
 
-2.5. CONSIDERATIONS FOR THE PUBLIC:
-- By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public.
+1.5. COLLABORATION DECISION:
+Understanding our institutional design and policies you may decide on what type of collaboration you want to offer us. We will decide on which collabrations are needed as transparently as possible and will deliver you a response as soon as possible.
+https://opensource.guide/how-to-contribute/#what-it-means-to-contribute
+- Overall Project Review.
+- Methodologies & Processes Optimization.
+- Solve & Organize Issues & Suggestions.
+- Documentation Optimization.
+- New Partnership Pitching.
+- Meetups & Workshops Organization.
+- Conference Production.
+- Automate Processual Setups.
+- Code Cleaning And Optimization.
+- Coherent Design Optimization.
+- Layout Improvement.
+- Reorganization Partners Research.
+- Merchandise Production & Distribution.
+- Templates Optimization.
+- Social Media Material Curatorship.
+- Develop Our Computational Applications.
+- New Tutorials Or Documentations.
+- Translations To Other Languages.
+- Review Others Codes & Mentoring.
 
+## 2. CONTRIBUTING PROCEDURE:
 
-# 3. COMPLETE LEGAL LICENSE:
-# https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+2.1. JOIN GITHUB:
+- If you are not yet a part of GitHub read this how-to-contribute guide in the world greatest open-source development community join GitHub and join it.
+http://bit.ly/CollaborateOnGitHub
 
-3.1. DEFINITIONS:
-- Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-- Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
-- BY-NC-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.
-- Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
-- Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-- Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-- License Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution, NonCommercial, and ShareAlike.
-- Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-- Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-- Licensor means the individual(s) or entity(ies) granting rights under this Public License.
-- NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
-- Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-- Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-- You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+2.2. LEARN HOW TO COLLABORATE ON GITHUB:
+- Research the GitHub documentation below to understand how to collaborate on a specific project. 
+https://opensource.guide/how-to-contribute/#what-it-means-to-contribute
 
-3.2. SCOPE:
+2.3. REVIEW OUR README.MD:
+https://github.com/ecumenic/project/blob/master/README.md
 
-3.2.1. License Grant:
-- Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to: reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
-- Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
-- Term. The term of this Public License is specified in Section 6(a).
-- Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
-- Downstream recipients: Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
-- No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+2.5. COMMIT TO OUR LICENSE AGREEMENT REVIEWING IT:
+https://github.com/ecumenic/project/blob/master/LICENSE
 
-3.2.2. Other Rights:
-- Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
-- Patent and trademark rights are not licensed under this Public License.
-- To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+2.6. COMMIT TO OUR CODE OF CONDUCT REVIEWING IT:
+https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
-3.3. LICENSE CONDITIONS: Your exercise of the Licensed Rights is expressly made subject to the following conditions.
-- Attribution: If You Share the Licensed Material (including in modified form), You must: (a) retain the following if it is supplied by the Licensor with the Licensed Material:(i) identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated); (i) a copyright notice; (iii) a notice that refers to this Public License; (iv) a notice that refers to the disclaimer of warranties; (v) a URI or hyperlink to the Licensed Material to the extent reasonably practicable; (b) indicate if You modified the Licensed Material and retain an indication of any previous modifications; and(c) indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
-- Share Alike: In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+2.7. PRECISEVELY CONTACT US:
+Only contact us through our email ecumenic@protonmail.com with:
+- Your GitHub username or how you will contribute reliably outside of it;
+- A paragraph about your work;
+- Your yet undeveloped desired contribution concise proposal; &
+- Feasable proofs you are able to develop and deploy your proposal, such as (but not limited to): your portfolio, execution project, and curriculum vitae. 
 
-3.4. SUI GENERIS DATABASE RIGHTS: Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material: for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only; 3.4.2. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and you must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database. For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+## 3. AFTER YOU'VE BEEN ACCEPTED TO JOIN USE:
 
-3.5. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY:
-- Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
-- To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.
-- The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+3.1. PROJECT WELCOME REVIEW:
+- Before doing anything, contact collaborators to get a project overview.
+- Develop your contribution following our collective agreements.
+- If you can’t find a feature and have not a solution use the git issue and pull features.
+- For other cases, please contact us.
 
-3.6 – TERM AND TERMINATION: This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates: automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or upon express reinstatement by the Licensor. For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License. Sections 1, 5, 6, 7, and 8 survive termination of this Public License. 
+3.2. COMMUNICATE EFFECTIVELY:
+Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
+- Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+- Give context. Help others get quickly up to speed. If you’re running into an error, explain what you’re trying to do and how to reproduce it. If you’re suggesting a new idea, explain why you think it’d be useful to the project (not just to you!).
+- Do your homework beforehand. It’s OK not to know things, but show that you tried. Before asking for help, be sure to check a project’s README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you’re trying to learn.
+- Keep requests short and direct. Much like sending an email, every contribution, no matter how simple or helpful, requires someone else’s review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+- Keep all communication public. Although it’s tempting, don’t reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+- It’s okay to ask questions (but be patient!). Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you’d want them to show to you.
+- Respect community decisions. Your ideas may differ from the community’s priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+- Above all, keep it politely respectful. Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It’s fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-3.7. OTHER TERMS AND CONDITIONS: 
-- The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
-- Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+3.3. GIT IN OUR HUB:
+If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
+- Issues are like starting a conversation or discussion.
+- Pull requests are for starting work on a solution.
+- For lightweight communication, such as a clarifying or how-to question, use the communication ways we will send you in your acceptance email.
+- Before you open an issue or pull request, check the project’s contributing README.MD for you may need to se specific methods.
+- If you want to make a substantial contribution, open an issue to ask before working on it. 
+- It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
-3.8. Interpretation:
-- For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
-- To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
-- No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-- Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+3.3.1. OPENING AN ISSUE:
+You should usually open an issue in the following situations:
+- Report an error you can’t solve yourself
+- Discuss a high-level topic or idea (for example, community, vision or policies)
+- Propose a new feature or other project idea
+- Tips for communicating on issues:
+- If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
+- If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+- If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-# 4. ABOUT CREATIVE COMMONS:
-- Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” 
-- The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
-- Creative Commons may be contacted at creativecommons.org.
+3.3.2. WHY OPEN A PULL REQUEST:
+- You should usually open a pull request in the following situations:
+- Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+- Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
+- A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+
+3.3.3. OPENING A PULL REQUEST:
+- Fork the repository and clone it locally. 
+- Connect your local to the original “upstream” repository by adding it as a remote.
+- Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+- Create a branch for your edits.
+- Reference any relevant issues or supporting documentation.
+- Include screenshots of the before and after if your changes include differences in coding. Drag and drop the images into the body of your pull request.
+- Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
+- Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+
+3.4. WHAT HAPPENS AFTER YOUR CONTRIBUTION:
+- Someone requests changes to your contribution:It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it. If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
+- Your contribution may not get accepted: Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision. Don’t argue or get hostile. You’re always welcome to fork and work on your own version if you disagree!
+- Your contribution gets accepted.
+
+## 4. LICENCE: 
+Please refer to our project 'LICENSE' link below.
+https://github.com/ecumenic/project/blob/master/LICENSE
 
 ## 5. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
-
-Copyright [CC BY-NC-SA] (c) Ecumenic Creative Operations
