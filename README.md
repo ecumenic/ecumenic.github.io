@@ -11,11 +11,11 @@
 # ◇
 
 ## 1. PROJECT: 
- 
-1.2. PROJECT SPECIFICITIES:
-- International English HTML CSS JS scripted website.
-- Audience Restriction: [PG] - Parental Guidance Recommended.
-- Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
+International English HTML CSS JS scripted website for the Ecumenic Creative Operations Project.
+
+1.1. AUDIENCE RESTRICTION:
+Audience Restriction: [PG] - Parental Guidance Recommended.
+https://en.wikipedia.org/wiki/Motion_picture_content_rating_system
 
 ## 2. CONTRIBUTIONS NEEDED:
 - Website review and code cleaning for SEO & speed optimization.
