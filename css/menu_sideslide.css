@@ -1,14 +1,14 @@
 
 .menu-wrap a {
-	color: #b8b7ad;
+	color: #bbb;
 }
 
 .menu-wrap a:hover,
 .menu-wrap a:focus{
-	color: #F97794;
+	color: #fff;
 }
 .menu-wrap .navbar-nav li .active{
-	color: #F97794; 
+	color: #fff; 
 }
 .menu-wrap .navbar-nav li .active:before{
 	width: 20px;
@@ -20,7 +20,7 @@
 
 .content {
 	position: relative;
-	background: #b4bad2;
+	background: #bbb;
 }
 
 .content::before {
@@ -117,7 +117,7 @@ button:focus{
 }
 
 .icon-list a {
-	color: #263238;
+	color: #222;
 	display: block;
 	padding: 0.8em;
 	-webkit-transform: translate3d(0,500px,0);
@@ -125,7 +125,7 @@ button:focus{
 	position: relative;
 }
 .icon-list a:before{
-	background: #F97794;
+	background: #fff;
 	content: "";
 	height: 1px;
 	left: 0;

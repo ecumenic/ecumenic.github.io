@@ -25,7 +25,7 @@ body {
 }
 
 .bg-transparent {
-  background: #111 !important;
+  background: transparent !important;
 }
 
 h1, h2, h3, h4, h5 {
@@ -37,8 +37,7 @@ h1, h2, h3, h4, h5 {
 
 p {
   font-size: 14px;
-  color: #434343;
-  line-height: 26px;
+  color: #000;
   font-family: 'Ubuntu', sans-serif;
   margin-bottom: 0;
 }
@@ -59,11 +58,13 @@ a:hover, a:focus {
 }
 
 a:not([href]):not([tabindex]) {
-  color: #fff;
+  color: #000;
+  font-weight: normal;
 }
 
 a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
-  color: #fff;
+  color: #000;
+  font-weight: normal;
 }
 
 ul {
@@ -80,11 +81,11 @@ SECTION HEADER
 ========================================================================== */
 
 .section {
-  padding: 0px 0;
+  padding: 70px 0px;
 }
 
 .section-header {
-  color: #fff;
+  color: #000;
   text-align: center;
   position: relative;
 }
@@ -101,7 +102,7 @@ SECTION HEADER
 .section-header .section-title:before {
   content: '';
   position: absolute;
-  width: 80px;
+  width: 33px;
   height: 2px;
   background: #111;
   -webkit-transition: 0.3s;
@@ -117,7 +118,7 @@ SECTION HEADER
   font-weight: 500;
   text-transform: capitalize;
   position: absolute;
-  top: 7px;
+  top: 0px;
   left: 0;
   width: 100%;
 }
@@ -414,7 +415,7 @@ SCROLL UP
 }
 
 .overlay {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 100%;
   top: 0px;
@@ -440,12 +441,12 @@ NAVBAR
   -moz-transition: 0.6s;
   transition: 0.6s;
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .mainmenu-area .menu-button {
   position: relative;
-  color: #263238;
+  color: #111;
   line-height: 58px;
   top: 0;
   outline: none;
@@ -469,7 +470,7 @@ NAVBAR
 
 .menu-bg .menu-button:hover {
   cursor: pointer;
-  color: #111;
+  color: #ff;
 }
 
 .menu-bg .logo-menu a {
@@ -477,7 +478,7 @@ NAVBAR
 }
 
 .menu-bg .navbar-nav .nav-link {
-  color: #263238 !important;
+  color: #111 !important;
 }
 
 .menu-bg .navbar-nav .nav-link:hover {
@@ -514,7 +515,7 @@ NAVBAR
 }
 
 .bg-white .navbar-nav .nav-link {
-  color: #263238 !important;
+  color: #111 !important;
 }
 
 .bg-white .navbar-nav .nav-link:hover {
@@ -522,7 +523,7 @@ NAVBAR
 }
 
 .bg-white .navbar-nav .active {
-  color: #111 !important;
+  color: #555 !important;
 }
 
 .close-button {
@@ -586,7 +587,7 @@ NAVBAR
 }
 
 .mainmenu-area .navbar-nav .nav-link {
-  color: #263238 !important;
+  color: #111 !important;
 }
 
 .collapse.show {
@@ -598,7 +599,7 @@ NAVBAR
 }
 
 .menu-bg .collapse.show {
-  background: #111;
+  background: #fff;
   margin-bottom: 10px;
   webkit-transition: 0.3s ease-in-out;
   -moz-transition: 0.3s ease-in-out;
@@ -607,9 +608,8 @@ NAVBAR
 
 .navbar-expand-md .navbar-toggler:active {
   border: 1px solid #111;
-  color: #111;
+  color: #fff;
 }
-
 /* ==========================================================================
 HERO AREA ========================================================================== */
 
@@ -1007,7 +1007,7 @@ HERO AREA ======================================================================
  Video promo Style
  ========================================================================== */
 .video-promo {
-  background: url(../img/bg/video.jpg);
+  background: url(../img/video.jpg);
   position: relative;
 }
 
@@ -1327,7 +1327,6 @@ HERO AREA ======================================================================
   margin-bottom: 15px;
   font-size: 18px;
   font-weight: 500;
-  line-height: 36px;
 }
 
 .featured-bg .featured-item h3 a {
@@ -1350,6 +1349,21 @@ HERO AREA ======================================================================
   webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+}
+
+.featured-box img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  align:center;
+}
+
+.featured-box .col-md-3 img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .featured-box:hover {
@@ -1495,7 +1509,7 @@ HERO AREA ======================================================================
 }
 
 .testimonial {
-  background: #f9f9f9;
+  background: transparent;
 }
 
 .testimonial-item {
@@ -1662,20 +1676,18 @@ HERO AREA ======================================================================
    ========================================================================== */
 #carousel-area {
   overflow: hidden;
-  background: #222;
- }
+  background: transparent;
+}
 
 #carousel-area .carousel-item {
-  background-size: 100%;
+  background-width: relative;
 }
 
 #carousel-area .carousel-item .carousel-caption {
-  top: 15%;
+  top: 10%;
   right: 10%;
   left: 10%;
   text-shadow: none;
-  padding-top: 0;
-  padding-bottom: 0;
 }
 
 #carousel-area .carousel-item .carousel-caption h3 {
@@ -1695,7 +1707,6 @@ HERO AREA ======================================================================
   color: #000;
   font-size: 18px;
   font-weight: 500;
-  margin-bottom: 30px;
 }
 
 #carousel-area .carousel-control {
@@ -1745,16 +1756,16 @@ HERO AREA ======================================================================
 
 #carousel-area .carousel-indicators li:hover,
 #carousel-area .carousel-indicators li.active {
-  opacity: 1;
+  opacity: 0;
 }
 
 #carousel-area .carousel-indicators {
-  bottom: 35px;
+  bottom: 0px;
 }
 
 #carousel-area .carousel-indicators li {
-  width: 30px;
-  height: 7px;
+  width: 0px;
+  height: 0px;
   border-radius: 4px;
 }
 
@@ -2409,3 +2420,4 @@ footer .menu li a:hover {
   font-size: 18px;
   margin-bottom: 0;
 }
+
