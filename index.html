@@ -2037,38 +2037,30 @@ Contact Us
 <!-- CONTACT FORM -->
 <div class="col-lg-9 col-md-9 col-xs-12">
 <div class="contact-block">
-<form id="contactForm" action="https://formspree.io/ecumenic@protonmail.com" method="POST">
+<form action="https://formspree.io/ecumenic@protonmail.com" method="POST">
 <div class="row">
 <div class="col-md-6">
 <div class="form-group">
-<input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required data-error="Please enter your name">
-<div class="help-block with-errors">
-</div>
+<input type="text" class="form-control" name="name" placeholder="Your Name">
 </div>                                 
 </div>
 <div class="col-md-6">
 <div class="form-group">
-<input type="_replyto" placeholder="Your Email" id="email" class="form-control" name="name" required data-error="Please enter your email">
-<div class="help-block with-errors">
-</div>
+<input type="_replyto" placeholder="Your Email" class="form-control" name="email">
 </div> 
 </div>
 <div class="col-md-12">
 <div class="form-group">
-<input type="text" placeholder="Subject" id="msg_subject" class="form-control" required data-error="Please enter your subject">
-<div class="help-block with-errors">
-</div>
+<input type="text" placeholder="Subject" name="subject" class="form-control">
 </div>
 </div>
 <div class="col-md-12">
 <div class="form-group"> 
-<textarea class="form-control" id="message" placeholder="Your Message" rows="7" data-error="Write your message" required>
+<textarea class="form-control" placeholder="Your Message" name="message" rows="7">
 </textarea>
-<div class="help-block with-errors">
-</div>
 </div>
 <div class="submit-button" align="center">
-<button class="btn btn-common btn-effect" id="submit" type="submit" value="Send">
+<button class="btn btn-common btn-effect" type="submit" value="Send">
 Send Message
 </button>
 <div id="msgSubmit" class="h3 hidden">
