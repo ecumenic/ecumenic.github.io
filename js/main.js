@@ -164,5 +164,11 @@
       $('#loader').fadeOut();
     });
 
-}(jQuery));
+/* 
+   Page Loader
+   ========================================================================== */
+$("a").mouseover(function() {
+window.status = "";
+});
 
+}(jQuery));
