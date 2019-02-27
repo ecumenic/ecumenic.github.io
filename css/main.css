@@ -6,6 +6,9 @@ GENERAL PAGE
 ========================================================================== */
 html {
 overflow-x: hidden;
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+filter: grayscale(100%);
 }
 body {
 font-family: 'Ubuntu Condensed', sans-serif;
@@ -1747,9 +1750,4 @@ margin-left: 10px;
 }
 #copyright .nav-inline .nav-link:hover {
 color: #111;
-}
-.st-2, .st-sticky-share-buttons, .st-right, .st-toggleable, .st-has-labels, .st-btn, .st-first, .st-last, .sharethis, .st-label, .st-toggle, .st-left, .st-right {
--webkit-filter: grayscale(100%);
--moz-filter: grayscale(100%);
-filter: grayscale(100%); }
 }
