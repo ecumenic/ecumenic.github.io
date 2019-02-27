@@ -1748,7 +1748,7 @@ margin-left: 10px;
 #copyright .nav-inline .nav-link:hover {
 color: #111;
 }
-.st-2, .st-sticky-share-buttons, .st-right, .st-toggleable, .st-has-labels, .st-btn, .st-first, .st-last, .st-label {
+.st-2, .st-sticky-share-buttons, .st-right, .st-toggleable, .st-has-labels, .st-btn, .st-first, .st-last, .st-label img {
   -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -ms-filter: grayscale(100%);
