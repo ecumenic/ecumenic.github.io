@@ -1748,17 +1748,8 @@ margin-left: 10px;
 #copyright .nav-inline .nav-link:hover {
 color: #111;
 }
-.st-custom-button[data-network] {
--webkit-filter:grayscale(100%);
-filter:grayscale(100%);
-background-color: #000;
-display: inline-block;
-padding: 5px 10px;
-cursor: pointer;
-font-weight: bold;
-color: #fff;
-&:hover, &:focus {
-text-decoration: underline;
-background-color: #ccc;
+.st-2, .st-sticky-share-buttons, .st-right, .st-toggleable, .st-has-labels, .st-btn, .st-first, .st-last, .sharethis, .st-label, .st-toggle, .st-left, .st-right {
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+filter: grayscale(100%); }
 }
-
