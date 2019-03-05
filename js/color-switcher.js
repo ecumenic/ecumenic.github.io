@@ -79,6 +79,6 @@ jQuery('body').append('' +
 				'<li><a class="color6" href="#"></a></li>' +
 			'</ul>' +
 		'</div>' +
-		'<div class="bottom"> <a href="https://donorbox.org/ecumenic" class="custom-dbox-popup settings" target="_blank"><img src="./img/donate-tab.png"></a></div>' +
+		'<div class="bottom"> <a href="https://donorbox.org/ecumenic" class="custom-dbox-popup settings" target="_blank"><img src="./img/donate-tab.png" alt="Sponsor Our Project: Donate"></a></div>' +
 	'</div>' +
 '');
