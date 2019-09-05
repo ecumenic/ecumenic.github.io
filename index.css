@@ -1,219 +1,67 @@
 /* Based on Wing v1.0.0-beta (http://usewing.ml) */
 /* Copyright to Kabir Shah under MIT License */
 
-/* PRELOADER */
-#loading {
-display: block;
-position: fixed;
-width: 100%;
-height: 100%;
-top: 0px;
-left: 0px;
-background: #fff;
-text-align: center;
-}
-#loading img {
-position: absolute;
-weight: 128px;
-height: 128px;
-left: 50%;
-margin-left: -50px;
-top: 50%;
-margin-top: -50px;
-}
-
 /* BASE STYLES */
 * {
 box-sizing: border-box;
 }
 html,
 body {
+animation: fadein 2s;
 margin: 0;
 padding: 0;
 background: #fff;
 scroll-behavior: smooth;
-transition: all 0.6s ease;
-}
-body {
-line-height: 1;
-color: #111;
-font-family: "Day Roman", serif;
+transition: all 0.4s ease;
 }
 
-/* ANIMATION */
+/* FADEIN (page transition) */
 @keyframes fadein {
 from {
 opacity: 0;
 }
 to {
 opacity: 1;
-}
-}
+}}
 .fadein {
 animation-name: fadein;
 }
 
-/* TYPOGRAPHY */
-h1 {
-animation: fadein 2s;
-margin: 15px 0px 0px 0px;
-line-height: 70px;
-font-size: 70px;
-}
-h2 {
-animation: fadein 3s;
-color: #222;
-line-height:40px;
-font-size: 40px;
-}
-h3 {
-animation: fadein 4s;
-line-height: 20px;
-font-size: 20px;
-}
-p {
-color: #000;
-font-size: 22px;
-line-height: 22px;
-}
-
-/* HYPERLINKS */
-a {
-color: #333;
-font-size: 20px;
-font-family: "Ubuntu Condensed";
-text-decoration: none;
-}
-a:hover {
-color: #000;
-text-decoration: none;
-}
-.button {
-background-image: linear-gradient(to top, #ccc, #fff);
-border: 1px solid #ccc;
-border-radius: 10px;
-margin: 5px 0px;
-padding: 0px 20px;
-line-height: 180%;
-font-size: 18px;
-font-weight: 1;
-text-align: center;
-display: inline-block;
-color: #000;
-text-decoration: none;
-box-shadow: 1px 1px #222;
-}
-.button:hover {
-background-image: linear-gradient(to top, #eee, #ddd);
-text-decoration: none;
-border: 1px solid #bbb;
-color: #111;
-box-shadow: none;
-}
-.button:active {
-border: 1px solid #000;
-color: #fff;
-}
-
-/* GRID */
-.container {
-width: 90%;
-max-width: 960px;
-margin: 0 auto;
-padding: 46px;
-}
-.row {
-display: flex;
-flex-flow: row wrap;
-justify-content: space-between;
-width: 100%;
-margin-bottom: 16px;
-}
-.row:last-child {
-margin-bottom: 0px;
-}
-.row .col {
-flex-grow: 1;
-flex-basis: 0;
-}
-.row .col-1 {
-width: 8.333333333333332%;
-}
-.row .col-2 {
-width: 16.666666666666664%;
-}
-.row .col-3 {
-width: 25%;
-}
-.row .col-4 {
-width: 33.33333333333333%;
-}
-.row .col-5 {
-width: 41.66666666666667%;
-}
-.row .col-6 {
-width: 50%;
-}
-.row .col-7 {
-width: 58.333333333333336%;
-}
-.row .col-8 {
-width: 66.66666666666666%;
-}
-.row .col-9 {
-width: 75%;
-}
-.row .col-10 {
-width: 83.33333333333334%;
-}
-.row .col-11 {
-width: 91.66666666666666%;
-}
-.row .col-12 {
-width: 100%;
-}
-@media screen and (max-width: 768px) {
-.row .col,
-.row [class^='col-'],
-.row [class*=" col-"] {
-flex-grow: 0;
-flex-basis: 100%;
-}
-}
-
-/* NAVBAR from right to left :) */
-.links {
-animation: fadein 3s;
-width: 100%;
-position: fixed;
-display: absolute;
-background: none;
-text-align: right;
-margin: 12px 0 0 -12px;
-}
-.links a {
-padding: 0 3px 0 0;
-}
-@media screen and (max-width: 768px) {
-.links {
-display: none;
-}
-}
+/* NAVBAR & TITLE */
 .bar {
-animation: fadein 3s;
 position: fixed;
 display: flex;
 width: 100%;
 height: 46px;
 background-image: linear-gradient(to top, #eee, #fff);
-opacity: 0.9;
 box-shadow: 1px 1px #ccc;
 justify-content: center;
 align-items: center;
-text-align: center;
 }
-nav {
-animation: fadein 3s;
+p { 
+line-height: 24px;
+color: #222;
+font-family: "Day Roman", "Times";
+font-size: 24px;
+font-weight: bold;
+vertical-align: baseline;
+}
+a {
+color: #222;
+line-height: 20px;
+font-family: "Ubuntu Condensed", "Helvetica";
+font-size: 20px;
+font-weight: bold;
+
+text-decoration: none;
+}
+a:hover {
+display: inline-block;
+color: #000;
+text-decoration: none;
+}
+/* NAVMENU */
+.nav {
 position: fixed;
 background: none;
 float: left;
@@ -221,53 +69,191 @@ float: left;
 #menu-icon {
 animation: fadein 3s;
 position: fixed;
-top: 3px;
+top: 2px;
 left: 12px;
 display:inline-block;
-background: url("icons/navmenu.png") center;
+background: url("img/nav/menu.png") center;
 display: hidden;
-width: 40px;
-height: 44px;
+width: 32px;
+height: 46px;
 }
 #menu-icon:hover {
-opacity:0.8;
+opacity: 0.7;
 }
-a:hover #menu-icon {
-}
-nav ul, nav:active ul { 
+.nav ul, nav:active ul { 
+animation: fadein 1s;
 display: none;
 position: fixed;
 background-image: linear-gradient(to top, #fff, #eee);
-opacity: 0.95;
 border: 2px solid #ddd;
-border-radius: 2px;
-box-shadow: 4px #000;
+border-radius: 0px 0px 20px 0px;
 left: 0px;
 top: 30px;
-width: 130px;
-padding: 5px 12px 5px 5px;
+width: 150px;
+padding: 0px 0px 5px 0px;
 white-space: nowrap;
 }
-nav:hover ul {
+.nav:hover ul {
 display: block;
 overflow: hidden;
 }
-li {
+.nav ul li {
 width: 100%;
+margin: 0px 0px 0px 0px;
 padding: 10px;
 line-height: 18px;
 display: inline-block;
 float: left;
 }
-li:hover {
-background: #222;
+.nav ul li:hover {
+background: #aaa;
 }
-li:hover a {
-color: #ccc;
+/* NAVLINKS */
+.navlinks {
+position: fixed;
+display: absolute;
+background: none;
+right: 12px;
+text-align: right;
+margin: 6px 0px 0px 0px;
 }
+.navlinks a {
+padding: 0px 0px 0px 0px;
+}
+.navlinks a:hover {
+opacity: 0.7;
+}
+.navlinks-mobile {
+display: none;
+}
+@media screen and (max-width: 768px) {
+.navlinks {
+display: none;
+}
+.navlinks-mobile {
+position: absolute;
+display: block;
+background: none;
+top: 12px;
+right: 10px;
+text-align: center;
+margin: 10px 0px 0px 0px;
+}}
 
 /* HEADER */
-
+.section {
+display: flex;
+width: 100%;
+height: 100%;
+margin: 0px 0px 0px 0px;
+padding: 46px 0px 0px 0px;
+align-content: flex-start;
+justify-content: center;
+align-items: flex-start;
+justify-items: center;
+}
+.row {
+width: 800px;
+height: 100%;
+background: transparent;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+justify-items: center;
+align-items: flex-start;
+text-align: center;
+}
+/* HEADER IMAGE */
+.header {
+width: 800px;
+max-width: 100%;
+max-height: 100%;
+object-fit: contain;
+}
+.header:hover {
+animation: fadein 1s;
+}
+.header-mobile {
+height: 300px;
+max-width: 100%;
+max-height: 387px;
+display: none;
+}
+@media screen and (max-width: 768px) {
+.header {
+display:none;
+}
+.header-mobile {
+display: block;
+width: 768px;
+max-width: 100%;
+max-height: 387px;
+object-fit: contain;
+}}
+/* HEADER TITLES */
+h1 {
+margin: 0px 5px 0px 5px;
+padding: 0px 0px 0px 0px;
+line-height: 52px;
+font-family: "Day Roman", "Times";
+font-size: 52px;
+}
+h2 {
+margin: 0px 5px 0px 5px;
+padding: 0px 0px 0px 0px;
+line-height: 29px;
+color: #333;
+font-family: "Day Roman", "Times";
+font-size: 28px;
+}
+h3 {
+margin: 10px 5px 0px 5px;
+padding: 0px 0px 0px 0px;
+line-height: 20px;
+color: #000;
+font-family: "Day Roman", "Times";
+font-size: 16px;
+font-weight: normal;
+font-style: italic;
+}
+@media screen and (max-width: 768px) {
+h1 {
+line-height: 6.81vw;
+font-size: 6.81vw;
+}
+h2 {
+line-height: 27px;
+font-size: 27px;
+}}
+/* BUTTONS */
+.button {
+line-height: 80px;
+font-size: 20px;
+margin: 20px 20px;
+padding: 10px 20px;
+background-image: linear-gradient(to top, #eee, #fff);
+border: 1px solid #ddd;
+border-radius: 20px;
+box-shadow: 2px 2px #ccc;
+}
+.button:hover {
+line-height: 20px;
+font-size: 20px;
+margin: 18px 20px;
+padding: 10px 20px;
+background-image: linear-gradient(to top, #fff, #eee);
+color: #444;
+border: 1px solid #bbb;
+box-shadow: none;
+}
+.button:active {
+border: 1px solid #fff;
+color: #aaa;
+}
 
 /* CREDITS */
 /* NAV MENU: http://bit.ly/absolute-menu */
+/* CSS DEVELOPMENT 
+https://getbootstrap.com
+https://glitch.com
+https://css-tricks.com
+https://codepen.io */
