@@ -28,6 +28,7 @@ animation-name: fadein;
 
 /* NAV */
 .navbar {
+z-index: 777;
 position: fixed;
 display: block;
 width: 100%;
@@ -110,6 +111,7 @@ text-decoration: none;
 display: flex;
 background: #fff;
 max-width: 100%;
+min-height: 300px;
 padding: 50px 0px 0px 0px;
 background-attachment: fixed;
 object-fit: none;
@@ -151,12 +153,12 @@ font-size: 67px;
 }
 h2 {
 line-height: 37px;
-color: #333;
+color: #222;
 font-size: 37px;
 }
 h3 {
 line-height: 35px;
-color: #222;
+color: #111;
 font-size: 35px;
 font-weight: normal;
 }
@@ -197,15 +199,20 @@ align-items: flex-start;
 flex-grow: 1;
 flex-shrink: 1;
 flex-basis: 33%;
-justify-content: center;
+width: 250px;
+justify-content: space-between;
 align-items: center;
+margin: 0px auto;
+padding: 0px 10px 5px 10px;
 text-align: center;
-border-radius: 20px;
 }
 @media screen and (max-width: 768px) {
 .row {
 min-width: 300px;
 max-width: 90%;
+}
+.col {
+max-width: 100%;
 }
 }
 
@@ -229,12 +236,13 @@ font-size: 17px;
 font-weight: normal;
 }
 a {
-color: #000;
+color: #333;
 }
 a:hover {
 color: #777;
 }
 span {
+color: #333;
 font-size: 14px;
 }
 
@@ -243,8 +251,9 @@ font-size: 14px;
 display: inline-block;
 background-image: linear-gradient(to top, #ddd, #fff);
 box-shadow:  0px 3px 3px 0px rgba(111,111,111, 0.5);
-margin: 10px 10px 0px 10px;
-padding: 15px 20px;
+margin: 0px 10px 0px 10px;
+padding: 10px 10px;
+width: 230px;
 border: 1px solid #ccc;
 border-radius: 14px;
 line-height: 19px;
