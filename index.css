@@ -320,10 +320,10 @@ display: none;
 /* PHOTO */
 .photo {
 background: #fff;
-margin: 0px 0px;
+margin: 50px 0px 0px 0px;
 min-width: 300px;
 width: 100%;
-height: 200px;
+height: 400px;
 vertical-align: bottom;
 background: no-repeat center center fixed;
 background-size: 100% 100%;
