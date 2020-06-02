@@ -1,4 +1,5 @@
-# Ecumenic Creative Operations Website: https://github.com/ecumenic/ecumenic.github.io
+# Ecumenic Creative Operations Website: 
+https://github.com/ecumenic/ecumenic.github.io
 
 1. **Project:** International English HTML CSS JScript, adaptive to mobile (smaller than 768px) responsive website for the Ecumenic Creative Operations Project.
 
